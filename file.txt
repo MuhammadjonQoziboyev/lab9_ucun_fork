@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# lab9_ucun
-# lab9_ucun
 Anvarjonov Shohjahon
-=======
 Dilmurod Tuxtanazarov
->>>>>>> e1b7810dcbf28b15b43d4c0d8b68358ee043c688
+Jamshidbek Qodirov
+
